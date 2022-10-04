@@ -16,7 +16,9 @@ These instructions will get you a copy of the project up and running on your loc
 ```
 * Python 3.x.x
 
-* You can install the requirement packages found in the pn_requirements.txt file via pip (although depending on your system configuration and setup, e.g. database engine, python version etc. you might need to change package versions, or add some extra packages): _pip install -r pn_requirements.txt_
+* The requirement packages found in the pn_requirements.txt file via pip
+(although depending on your system configuration and setup, e.g. database engine, python
+version etc. you might need to change package versions, or add some extra packages):
 ```
 - An SMS messaging service with its relevant API is required.
 
